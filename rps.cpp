@@ -17,7 +17,6 @@ string SCISSORS = "\n  .-""-.\n /,..___\\\n() {_____}\n  (/-@-@-\\)\n  {`-=^=-'}
 
 // function declarations 
 void runGame();
-int getComputerPlay();
 void printPlay(int play);
 
 
